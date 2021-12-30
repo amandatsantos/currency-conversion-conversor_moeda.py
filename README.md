@@ -1,6 +1,6 @@
 <h1>conversor de moedas / currency conversion - python</h1> 
 
-<h3> the general idea of this mini projector is to test the libary import logic in Python.</h3>
+<h3> the general idea of this mini projector is to test logic, and import libraries.</h3>
 
 <h4>the converter should:</h4>
 
