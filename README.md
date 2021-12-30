@@ -1,21 +1,42 @@
-conversor - python 
+<h1>conversor de moedas / currency conversion - python</h1> 
 
-A ideia geral
-1. Que um valor inicial seja digitado
-2. Que a moeda inicial seja escolhida
-3. Que a moeda de câmbio seja escolhida
-4. Que o valor da conversão seja exibido na tela com o valor arredondado para 2 casas decimais(ex: $10,50)
-5. Que a pessoa possa continuar fazendo quantas conversões quiser.
+<h3> the general idea of this mini projector is to test the libary import logic in Python.</h3>
 
-condições
-programa deve permitir que :
+<h4>the converter should:</h4>
 
-● Um valor inicial seja escolhido
-● Que uma moeda inicial seja escolhida(onde USD e BRL devem fazer parte de escolhas padrões) e
-que o usuário também possa digitar as 3 inicias para que moedas diferentes de USD ou BRL
-sejam utilizadas
-● Que uma moeda de câmbio seja escolhida(onde USD e BRL devem fazer parte de escolhas
-padrões) e que o usuário também possa digitar as 3 inicias para que moedas diferentes de USD ou BRL sejam utilizadas
-● O resultado da conversão seja exibido na tela(terminal)
+<br>
+- receive an initial value that will be entered
+<br>
+- the starting currency is chosen
+<br>
+- exchange currency is chosen
+<br>
+- the conversion amount should be displayed on the screen with theamount rounded to 2 decimal places
+<br>
+- the user must be able to continue making as many conversions as he wants.
 
-- FOI UTILIZADA A BIBLIOTECA forex_python
+##
+
+the program must allow : 
+
+<br>
+● That a <u>starting</u> currency be chosen (where USD and BRL should be part of default choices) and
+that the user can also enter the 3 initials so that currencies other than USD or BRL
+are used.
+<br>
+● That an <u>exchange</u> currency is chosen (where USD and BRL must be part of choices
+standards) and that the user can also enter the 3 initials so that currencies other than USD or BRL are used.
+<br>
+● The result of the conversion is displayed on the screen(terminal).
+
+##
+technology and libraries used:
+python and forex_python was used
+
+##
+
+prerequisite:
+python 3.8
+
+
+
