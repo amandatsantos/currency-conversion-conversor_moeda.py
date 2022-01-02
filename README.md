@@ -33,6 +33,27 @@ standards) and that the user can also enter the 3 initials so that currencies ot
 technology and libraries used:
 python and forex_python was used
 
+
+##
+
+prerequisite:
+python 3.8
+
+
+
+##
+running on the terminal :
+
+
+<br>
+<center> <img src="https://user-images.githubusercontent.com/77032723/147884522-f70c386f-1e7c-4a77-a7b9-72874d87bae2.png"></center>
+<br>
+<center> <img src="https://user-images.githubusercontent.com/77032723/147884538-57d26b73-c82f-4184-989e-ef923342e087.png"></center>
+<br>
+<center> <img src="https://user-images.githubusercontent.com/77032723/147884554-38bf0640-a0cf-4658-b243-f01bad477715.png"></center>
+<br>
+<center> <img src="https://user-images.githubusercontent.com/77032723/147884585-71873365-0680-42af-af40-29d5b805cf0e.png"></center>
+
 ##
 
 prerequisite:
